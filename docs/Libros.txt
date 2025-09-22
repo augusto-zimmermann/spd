@@ -1,0 +1,15 @@
+Bibiografia de consulta de la teoria
+-----------------------------------------------------
+Stallings, W. (2006). Organizacion y Arquitectura de Computadores (7ma edicion). Madrid: Pearson - Prentice-Hall
+
+Tanenbaum, A. (2000). Organizacion de Computadoras. Un Enfoque Estructurado (4ta edicion). Mexico: Prentice Hall Hispanoamericana S.A.
+
+Quiroga, Patricia (2010). Arquitectura de Computadoras (1ra edicion). Buenos Aires: Alfaomega
+
+Ginzburg, M. (2012). La PC por dentro: Arquitectura y funcionamiento de computadoras modernas desde cero (5ta edicion). Buenos Aires: Biblioteca Tecnica Superior
+
+Ginzburg, M. (2006). La PC por dentro: Arquitectura y funcionamiento de computadoras (3ra edicion). Buenos Aires: Biblioteca Tecnica Superior
+
+Bibliografia de consulta de Assembler
+----------------------------------------------------------
+Ginzburg, M. (2010). Assembler desde cero + interrupciones. Unidad 3. (3ra edicion ampliada). Buenos Aires: Biblioteca Tecnica Superior
